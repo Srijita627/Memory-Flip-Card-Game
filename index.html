@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Memory Flip Game</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Start Screen -->
+  <div id="start-screen">
+    <h1 class="game-title">🎴 Memory Flip Game 🎴</h1>
+    <button id="start-btn">Start Game</button>
+  </div>
+
+  <!-- Game Container -->
+  <div id="game-container" style="display:none;">
+    <div class="stats">
+      <p>Moves: <span id="moves">0</span></p>
+      <p>Time: <span id="time">0</span> sec</p>
+      <button id="mute-btn">🔊</button>
+    </div>
+    <div id="game-board"></div>
+    <button id="restart-btn">🔄 Restart</button>
+  </div>
+
+  <!-- Victory Screen -->
+  <div id="victory-screen" style="display: none;">
+    <h1>🎉 You Won! 🎉</h1>
+    <p>Moves: <span id="final-moves"></span></p>
+    <p>Time: <span id="final-time"></span> sec</p>
+    <button id="play-again">Play Again</button>
+    <canvas id="confetti-canvas"></canvas>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
