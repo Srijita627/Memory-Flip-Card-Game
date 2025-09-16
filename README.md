@@ -40,7 +40,7 @@ A fun **card matching game** with sounds, timer, and move counter!
 Match all pairs of cards by flipping **two at a time**. Try to finish in the **fewest moves** and **shortest time** possible!
 
 ## 💡 How to Play
-1. Open the [Live Demo](https://srijita627.github.io/Memory-Flip-Game/).
+1. Open the [Live Demo](https://srijita627.github.io/Memory-Flip-Card-Game/).
 2. Click on any card to flip it.
 3. Match two cards with the same image.
 4. Repeat until all cards are matched.
