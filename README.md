@@ -3,7 +3,7 @@
 A browser-based **card matching game** developed using **HTML, CSS, and JavaScript**. Flip cards, match pairs, and complete the game in minimum moves and time!
 
 ## 🚀 Live Demo
-👉 [Play the Game Here](https://srijita627.github.io/Memory-Flip-Game/)
+👉 [Play the Game Here](https://srijita627.github.io/Memory-Flip-Card-Game/)
 
 ---
 
